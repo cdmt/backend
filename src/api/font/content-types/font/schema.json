@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fonts",
+  "info": {
+    "singularName": "font",
+    "pluralName": "fonts",
+    "displayName": "font"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "font_name": {
+      "type": "string"
+    }
+  }
+}
